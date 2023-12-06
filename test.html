@@ -43,8 +43,8 @@
 
 <p>Fourth, you raise some concerns about the classifiers we use. Specifically, we used three classifiers:
 <ul>
-  <li>misogyny with MilaNLProc's model (Attanasio et al. 2022)</li>
-  <li>toxicity with &ldquo;ToxiGen Roberta,&rdquo; (Hartvigsen et al. 2022)</li>
+  <li>misogyny with &ldquo;MilaNLProc&rdquo; (Attanasio et al. 2022)</li>
+  <li>toxicity with &ldquo;ToxiGen Roberta&rdquo; (Hartvigsen et al. 2022)</li>
   <li>hate speech with &ldquo;Twitter Base Hate&rdquo; (Antypas and Camacho-Collados 2023) </li>
 </ul>
 Each of these classifiers has false positives and false negatives. The misclassifications you found are real and dissatisfying to us. But, these are the best models available. They are literally best-in-class. The Toxigen model in particular, which we use for toxicity classification, was just recently used for the same purpose in Meta's Llama2 large language model, Meta's ChatGPT equivalent (see page 69 of <a href="https://arxiv.org/abs/2307.09288">https://arxiv.org/abs/2307.09288</a>). In light of Meta's choice, we feel comfortable using Toxigen. Furthermore, in our paper we compare EJMR to Reddit. We have no reason to think that the classifiers are inconsistent across those datasets, so we expect any misclassifications to be equally distributed.</p>
