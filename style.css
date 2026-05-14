@@ -139,8 +139,14 @@ p.home-full-width {
   margin-top: 1.5rem;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  align-items: center;
+  gap: 0.4rem;
   font-size: 0.92rem;
+}
+
+.contact-links .sep {
+  color: #bbb;
+  user-select: none;
 }
 
 .home-bio .contact-links a {
