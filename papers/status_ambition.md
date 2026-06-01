@@ -1,118 +1,118 @@
 # Interpersonal Comparison, Status and Ambition in Organizations
 
 **Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
-**Andrea Patacconi** (University of Aberdeen)
+**Andrea Patacconi** (University of Aberdeen Business School)
 
-*Journal of Economic Behavior and Organization*, Vol. 75, No. 2, pp. 348–363, August 2010
+*Journal of Economic Behavior & Organization*, Vol. 75, pp. 348–363, 2010
 
 ---
 
 ## Abstract
 
-We study the effects of status concerns and ambition on incentives in tournaments. Status concerns — modeled as reference-dependent preferences over relative wages — increase effort but create asymmetries between promotion-based and demotion-based tournament formats. We show that promotion-based tournaments generate higher firm profits despite eliciting lower effort for a given prize spread, because the optimal prize can be set lower. Ambitious workers, who set high internal reference points, exert more effort than their non-ambitious counterparts, but the optimal organizational response depends on whether ambitious and non-ambitious workers are segregated or mixed across tournaments.
+This paper analyzes the effect of introducing status concerns into a model of tournament competition. It emphasizes the role of reference groups and the optimal number of winners and losers in a tournament. Because firms must compensate employees for the disutility of low status, they may be reluctant to explicitly identify losers. This rationalizes the prevalence of compensation systems that reward winners without explicitly identifying losers — promotion-based tournaments — which are shown to dominate demotion-based schemes in terms of firm profits. The paper also shows that ambitious workers always exert more effort than unambitious workers, that both types work harder in segregated than in mixed tournaments, and that ambitious workers may perversely discourage effort by their non-ambitious rivals.
 
-**JEL Codes:** J31, J41, M12, M52.
+**JEL Codes:** J31, J41.
 
----
-
-## Theoretical Framework
-
-### The Tournament Model
-
-A firm employs $N$ risk-neutral agents who compete in a tournament for prizes. Each agent $i$ chooses effort $e_i$, which determines output. The highest-performing agents receive the high wage $w_H$ and are promoted; the lowest-performing agents receive the low wage $w_L$ and are demoted (or retained at a lower level).
-
-### Status Concerns and Reference-Dependent Preferences
-
-Agents care about both their absolute wage and their **status** relative to a reference wage $w^R$. The reference wage is determined endogenously as the modal group's wage — the wage received by the majority of agents.
-
-Agent $i$'s expected utility is:
-
-$$Eu_i(e_i) = \Pr(i \in W)[w_H + \beta(w_H - w^R)] + \Pr(i \in L)[w_L + \alpha(w_L - w^R)] - c(e_i)$$
-
-where:
-- $W$ is the set of winners (promoted agents), $L$ is the set of losers (demoted agents)
-- $\beta \geq 0$ is the gain sensitivity (utility boost from earning above the reference wage)
-- $\alpha \geq 0$ is the loss sensitivity (disutility from earning below the reference wage), with $\alpha \geq \beta$
-- $c(e_i)$ is a convex cost-of-effort function
-
-The asymmetry $\alpha \geq \beta$ captures loss aversion: agents suffer more from falling below the reference wage than they gain from exceeding it.
-
-### Promotion-Based vs. Demotion-Based Tournaments
-
-The model distinguishes two tournament formats based on how the reference wage is determined:
-
-**Promotion-based tournament:** The majority of agents are retained at the low wage $w_L$; a minority are promoted to $w_H$. The reference wage is $w^R = w_L$ (the modal wage). Winning generates a status gain $\beta(w_H - w_L) > 0$; losing generates no status loss (since $w_L = w^R$).
-
-**Demotion-based tournament:** The majority of agents are promoted to $w_H$; a minority are demoted to $w_L$. The reference wage is $w^R = w_H$. Winning generates no status gain (since $w_H = w^R$); losing generates a status loss $\alpha(w_L - w_H) < 0$.
+**Keywords:** Reference-dependent preferences, Status, Ambition, Tournaments.
 
 ---
 
-## Main Results
+## 1. Model
 
-### Proposition 1 (Status Increases Effort)
+$N$ agents compete in a tournament. $N_W \geq 1$ winners receive a high wage $w_H$ and the remaining $N_L = N - N_W$ receive a low wage $w_L$. Status concerns are modeled through a reference wage $w^R$: the modal group's wage serves as the reference point, so $w^R = w_H$ if winners form the modal group (demotion-based: many winners, few losers) and $w^R = w_L$ if losers form the modal group (promotion-based: few winners, many losers). Agent $i$'s expected utility is
 
-Status concerns increase equilibrium effort relative to the benchmark without status concerns ($\alpha = \beta = 0$). For any fixed prize spread $w_H - w_L$:
+$$Eu_i(e_i) = \Pr(i \in W)[w_H + \beta(w_H - w^R)] + \Pr(i \in L)[w_L + \alpha(w_L - w^R)] - c(e_i), \tag{1}$$
 
-- **Demotion-based tournaments elicit higher effort** than promotion-based tournaments, because the loss-aversion effect ($\alpha$) at the bottom is stronger than the gain effect ($\beta$) at the top, and in demotion-based settings the majority faces a potential status loss.
+where $\alpha \geq \beta \geq 0$ measure the sensitivity to status losses and gains respectively, and $c(\cdot)$ is strictly increasing and convex. The asymmetry $\alpha \geq \beta$ reflects loss aversion: the disutility of having low status exceeds the utility of having high status.
 
-### Proposition 2 (Promotion-Based Tournaments Are More Profitable)
+The firm's objective is to maximize expected profits
 
-Despite eliciting lower effort for a given prize spread, **promotion-based tournaments generate higher firm profits** than demotion-based tournaments. The intuition is that the firm can elicit the same effort level at a lower cost under the promotion-based format: since promotion generates a status gain, agents value winning more, so the monetary prize needed to incentivize effort is lower.
+$$\max E\Pi = V\sum_{i=1}^N e_i - N_W w_H - N_L w_L \tag{2}$$
 
-The asymmetric effects of loss aversion (large demotion pain vs. modest promotion gain) mean the principal can exploit the gain channel at low cost under promotion but must pay for the loss channel under demotion.
+subject to incentive constraints
 
-### Proposition 3 (Optimal Effort Ranking)
-
-When each tournament format is optimally designed (choosing $w_H$ and $w_L$ to maximize profits), the ranking of equilibrium effort levels is:
-
-$$e^{P*} > e^{ND*} > e^{D*}$$
-
-where $e^{P*}$ is effort under optimal promotion-based tournaments, $e^{ND*}$ under optimal no-demotion (mixed) formats, and $e^{D*}$ under optimal demotion-based tournaments.
-
-### Proposition 4 (Promotion-Based Dominates)
-
-Among all tournament formats, the **promotion-based tournament maximizes firm profits**. The proof shows that the gain sensitivity channel is cheaper to exploit than the loss channel, so the profit-maximizing firm always prefers a format in which winners gain status relative to a "loser" reference point rather than a format in which losers suffer a status loss.
-
-### Proposition 5 (Maximize Promotions, Minimize Demotions)
-
-Given a fixed reference wage constraint, the optimal contract structure **maximizes the number of promotions and minimizes the number of demotions**, subject to the constraint that the reference wage remains at the lower level. This is the efficient way to deploy status incentives: give as many agents as possible the opportunity to gain status while keeping the reference point low.
+$$\frac{\partial \Pr(i \in W)}{\partial e_i}\left[(w_H - w_L) + \alpha(w^R - w_L) + \beta(w_H - w^R)\right] = c'(e_i). \tag{3}$$
 
 ---
 
-## Section 4: Ambition
+## 2. Promotion-Based vs. Demotion-Based Tournaments
 
-### Ambitious vs. Non-Ambitious Workers
+**Promotion-based tournament** ($w^R = w_L$, few winners): The incentive constraint becomes
 
-An **ambitious worker** sets a high internal reference point $w^R_A$ independent of the organizational wage structure. A **non-ambitious worker** uses the modal wage as the reference point, as in the baseline model.
+$$\frac{\partial \Pr(i \in W)}{\partial e_i}(1 + \beta)(w_H - w_L) = c'(e_i), \tag{5b}$$
 
-Ambitious workers who set $w^R_A > w_H$ suffer a status loss even when promoted, because they compare themselves to an aspiration wage above what the organization offers. This creates higher intrinsic motivation: **ambitious workers exert more effort** than non-ambitious workers for any given prize spread.
+and firm profits are
 
-Key results on effort comparisons:
-- $e_{A,A} > e_{A,NA}$: an ambitious worker exerts more effort when matched against another ambitious worker than against a non-ambitious one
-- $e_{NA,NA} > e_{NA,A}$: a non-ambitious worker exerts more effort when matched against another non-ambitious worker than against an ambitious one
+$$E\Pi^{PB} = VNe - N[\bar{u} + c(e)] + N_W^{PB}\beta(w_H - w_L). \tag{5a}$$
 
-The second result reflects a discouragement effect: non-ambitious workers lower effort when facing an ambitious rival who will exert very high effort regardless.
+The status gain from winning (captured by $\beta$) saves the firm money because it reduces the wage premium needed to provide incentives.
 
-### Segregated vs. Mixed Tournaments
+**Demotion-based tournament** ($w^R = w_H$, few losers): The incentive constraint becomes
 
-**Segregated tournaments** (ambitious vs. ambitious; non-ambitious vs. non-ambitious) yield higher average effort than **mixed tournaments** (ambitious vs. non-ambitious) under most conditions. The discouragement effect on non-ambitious workers in mixed tournaments reduces their effort below what they would exert in homogeneous competition.
+$$\frac{\partial \Pr(i \in W)}{\partial e_i}(1 + \alpha)(w_H - w_L) = c'(e_i), \tag{6b}$$
+
+and firm profits are
+
+$$E\Pi^{DB} = VNe - N[\bar{u} + c(e)] - (N - N_W^{DB})\alpha(w_H - w_L). \tag{6a}$$
+
+The status loss from demotion (captured by $\alpha$) costs the firm money because it must compensate workers for the disutility of low status.
+
+**Proposition 1.** For any given wage spread, (i) equilibrium effort is higher with status concerns than without; and (ii) effort is higher in a demotion-based than a promotion-based tournament if $\alpha - \beta$ is sufficiently large.
+
+**Proposition 2.** Expected profits are higher in the promotion-based than in the demotion-based tournament, both for a fixed effort level and when effort is optimally chosen:
+
+$$E\Pi^{PB}(e^{PB}) \geq E\Pi^{PB}(e^T) > E\Pi^T > E\Pi^{DB}(e^{DB}).$$
+
+Although demotion-based tournaments can elicit higher effort, they do so only by imposing larger status costs on losers, which must be compensated by the firm and outweigh the productivity benefits.
+
+**Proposition 3.** When wage spreads are chosen optimally, equilibrium effort is highest in the promotion-based tournament, lower in the standard tournament (no status concerns), and lowest in the demotion-based tournament.
+
+**Proposition 4.** Firm profits are higher in a promotion-based tournament (with reference group) than in a standard tournament without reference groups; promotion-based tournaments dominate all tournament scenarios.
 
 ---
 
-## Section 5: Ambition and Ability
+## 3. Promotions and Demotions with Three Tiers
 
-### Correlated Ambition and Ability
+When the firm can promote, demote, or retain workers (three wage levels $w_H > w_M > w_L$, with $N_W$ promoted and $N_L$ demoted), the reference wage is the modal group's wage.
 
-When ambition and ability are positively correlated (more able workers are also more ambitious), segregated tournaments are efficient: ambitious-able workers compete together, and the firm benefits from high effort in the top tier.
+**Proposition 5.** It is optimal to set $\Delta w^- = 0$ or $N_L = 0$ (or both), and to set $N_W = (N - D)/2$, $N_M = (N + D)/2$, with wages set so that the participation constraint binds. The firm should maximize the number of promotions and minimize the number of demotions.
 
-If the cost function satisfies $c''' \leq 0$, a positive correlation between ambition and ability may lead to **lower average effort** than under negative correlation or independence, because high-ability ambitious workers are less responsive to marginal incentives when their base effort is already high.
+**Proposition 6.** Without loss of generality, attention can be restricted to tournaments in which $w^R = w_M$, that is, where the middle tier forms the reference group.
 
-### Proposition 9 (Segregated Beats Mixed on Average)
-
-Segregated tournaments generate higher average effort than mixed tournaments across the workforce. Mixed tournaments are preferred by the firm only when there is a large selection benefit $T$ — i.e., when mixing ambitious and non-ambitious workers generates information that allows the firm to make better promotion decisions that outweigh the effort cost from the discouragement effect.
+These results explain why firms commonly reward winners without explicitly identifying losers: promotion without demotion minimizes the status costs that the firm must compensate.
 
 ---
 
-## Conclusion
+## 4. Ambition
 
-Status concerns and ambition generate complex incentive effects in organizations. While demotion threats elicit high effort for a given prize spread, promotion-based tournaments are more profitable because the status gain from promotion is cheaper to provide than the status loss from demotion is to compensate. Ambitious workers exert high effort but can discourage less ambitious colleagues in mixed competitions. The optimal organizational design segregates ambitious and non-ambitious workers and maximizes the scope for status gains through promotion rather than demotion threats.
+An **ambitious** worker sets his reference wage equal to the high wage, $w^R_A = w_H$, regardless of the tournament format; an **unambitious** worker sets $w^R_{NA} = w_L$. In a two-agent setting the FOCs are:
+
+- Ambitious vs. unambitious opponent: $g(0)(1 + \alpha)\Delta w = c'(e_{A,NA})$
+- Unambitious vs. ambitious opponent: $g(0)(1 + \beta)\Delta w = c'(e_{NA,A})$
+
+**Proposition 7.** Ambitious workers always exert more effort than unambitious workers. Both types exert more effort in segregated tournaments (matched against like types) than in mixed tournaments:
+
+$$e_{A,A} > e_{A,NA}, \quad e_{NA,NA} > e_{NA,A}, \quad e_{A,NA} > e_{NA,A}.$$
+
+The ambitious worker's high reference point magnifies both the gain from winning and the loss from losing, generating stronger incentives. However, when an unambitious worker is matched against an ambitious opponent, the unambitious worker reduces effort because the ambitious opponent's strong incentives make competition less attractive — a discouragement effect.
+
+---
+
+## 5. Ambition and Ability
+
+When output is $x_i = a_i + e_i + \varepsilon_i$ with ability $a_i \in \{a_L, a_H\}$ correlated with ambition (correlation parameter $p = \Pr(H \mid A) = \Pr(L \mid NA)$):
+
+**Proposition 8.** Ambitious workers always exert more effort. The probability of promoting the more able worker is strictly increasing in $p$. If $c'''(\cdot) \leq 0$, average effort is lower when $p = 1$ (ability and ambition perfectly positively correlated) than when $p = 0$ (perfectly negatively correlated).
+
+**Proposition 9.**
+- (i) Average effort is higher in segregated than mixed tournaments. The benefit of promoting the right worker can be higher in either tournament format.
+- (ii) If $p = 0$, mixed tournaments are optimal when selection is important ($T$ large) and the ability gap $a$ is sufficiently large relative to $\alpha - \beta$.
+- (iii) If $p = 1$, mixed tournaments are optimal when selection is sufficiently important ($T$ sufficiently large).
+
+When ambition and ability are negatively correlated, the firm faces a tradeoff: mixed tournaments reduce average effort but may improve selection by placing high-ability workers against ambitious rivals, inducing more balanced competition.
+
+---
+
+## 6. Conclusion
+
+Introducing status concerns into tournament models has substantial implications for incentive provision. Because status losses are more costly than status gains are valuable ($\alpha \geq \beta$), firms optimally use promotion-based compensation systems that reward winners without explicitly identifying losers. Demotion-based systems generate higher effort but impose status costs that more than offset the efficiency gains. Ambitious workers exert more effort in all settings, but may discourage non-ambitious rivals in mixed tournaments, creating a tradeoff between effort elicitation and selection efficiency that depends on the correlation between ambition and ability and on the importance of selecting the most able worker.
