@@ -1,0 +1,24 @@
+# Florian Ederer – Academic Website
+
+Florian Ederer is Allen and Kelli Questrom Professor in Markets, Public Policy and Law at Boston University. His research spans industrial organization, contract theory, corporate finance, and behavioral economics, with a focus on innovation, competition, and information.
+
+## Machine-Readable Papers
+
+The following papers are available as full-text Markdown files for LLM consumption:
+
+- [Bayesian Persuasion with Lie Detection](https://florianederer.github.io/papers/lie_detection.md) — Min and Ederer (forthcoming, Journal of Law and Economics). A sender chooses a signaling mechanism knowing the receiver can probabilistically detect lies; the paper characterizes optimal persuasion under imperfect lie detection.
+- [A Tale of Two Networks: Common Ownership and Product Market Rivalry](https://florianederer.github.io/papers/tale_of_two_networks.md) — Ederer and Pellegrino (Review of Economic Studies, 2026). A general equilibrium model of oligopoly in which firms are connected through two large networks—product similarity and ownership overlap—finds that the welfare cost of common ownership, measured as deadweight loss, increased ninefold between 1995 and 2021.
+
+## Bibliography
+
+- [Complete bibliography (BibTeX)](https://florianederer.github.io/bibtex/ederer_references.bib)
+
+## Key Pages
+
+- [Research](https://florianederer.github.io/research.html) — full list of publications and working papers
+- [Teaching](https://florianederer.github.io/teaching.html)
+- [Press](https://florianederer.github.io/press.html)
+
+## Contact
+
+florian.ederer@gmail.com
