@@ -1,7 +1,7 @@
 # Promises and Expectations
 
 **Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
-**Alexander Stremitzer** (ETH Zürich)
+**Alexander Stremitzer** (UCLA School of Law)
 
 *Games and Economic Behavior*, Vol. 106, pp. 161–178, November 2017
 
@@ -9,92 +9,80 @@
 
 ## Abstract
 
-We study the role of guilt aversion in promise-keeping. In a laboratory experiment, we exogenously manipulate promisors' second-order expectations — their beliefs about promisees' expectations of promisor behavior — while holding first-order expectations constant. We find that higher second-order expectations lead promisors to behave significantly more generously, consistent with a guilt aversion mechanism: promisors are motivated to keep their promises by the anticipated disutility of disappointing the promisee's expectations. We develop and test a conditional guilt aversion model that rationalizes these findings and encompasses earlier experimental results on guilt aversion.
+We use a laboratory experiment to provide the first direct test of the hypothesis that people keep promises because they expect to feel guilty when they disappoint their promisee's expectations. We exogenously vary promisors' second-order beliefs (their beliefs about promisees' expectations of promisor performance) while holding constant the promissory link and first-order beliefs. We find that higher second-order beliefs lead to significantly higher performance, consistent with the guilt aversion hypothesis. We propose a conditional guilt aversion model — in which guilt is activated only when a promise is made — and show that this model is consistent with the data.
 
-**JEL Codes:** C72, C91, D03, D86, K12.
+**JEL Codes:** A13, C72, C91, D03, D64, D80, K12.
 
----
-
-## Background and Motivation
-
-Promises are pervasive in economic life — from employment contracts to informal agreements between friends — yet standard game theory predicts they should have no effect when unenforceable and non-binding. Empirical evidence shows, however, that people frequently keep promises even in one-shot interactions where there is no legal enforcement and no reputational benefit.
-
-One explanation for promise-keeping is **guilt aversion**: promisors anticipate feeling guilty for disappointing a promisee's expectations, and this anticipated guilt acts as a psychological cost that incentivizes compliance. The key mechanism is not the promise per se, but the expectations it generates: by making a promise, a promisor raises the promisee's belief that the promise will be kept, and failing to keep the promise causes guilt proportional to the disappointment inflicted.
-
-This paper tests the guilt aversion mechanism by directly manipulating the key object in the theory: the promisor's **second-order expectations** (the promisor's belief about what the promisee expects the promisor to do).
+**Keywords:** Promises, Expectations, Beliefs, Contracts, Guilt aversion.
 
 ---
 
-## Experimental Design
+## 1. Experimental Design
 
-### The Trust Game
+### 1.1 Game Structure
 
-The experiment uses a modified trust game:
+The experiment uses a modified dictator game. Subject A (the dictator/promisor) can send B (the receiver/promisee) a free-form written message that is one of three types: no message, empty talk, or a promise. Subject B then decides whether to opt in or opt out. If B opts in, Nature selects a reliability device that is either reliable ($\rho = 5/6$) or unreliable ($\rho = 1/6$), revealed to both subjects. Subject A alone learns the state $\theta \in \{0, 1\}$ (can or cannot perform). A then chooses a contribution $a \in \{$Don't Perform, $1/4$, $1/2$, $3/4$, Perform$\}$. Payoffs are:
 
-- A **promisee** (investor) decides whether to send a sum of money to the promisor (trustee). If sent, the amount is multiplied.
-- The **promisor** (trustee) can optionally make a promise to return a fair share of the money before the promisee makes a decision.
-- After observing the promisee's decision, the promisor decides how much to return.
+$$\pi_A = 14 - 4a, \quad \pi_B = 12a.$$
 
-### Manipulation of Second-Order Expectations
+The key manipulation is the reliability device $\rho$: when the device is reliable ($\rho = 5/6$), a given message generates higher second-order beliefs in A (A believes B expects more), whereas when it is unreliable ($\rho = 1/6$), the same message generates lower second-order beliefs.
 
-The key experimental manipulation varies what promisors are told about promisees' expectations:
+### 1.2 Procedures
 
-- **High expectations condition:** Before making the return decision, the promisor is told (truthfully or by experimental manipulation) that the promisee expects a high return rate.
-- **Low expectations condition:** The promisor is told that the promisee expects a low return rate.
-
-First-order expectations (what the promisee actually expects) are held constant across conditions; only the promisor's *belief* about what the promisee expects is varied. This separates the guilt aversion channel (promisor's belief about promisee expectations) from other channels (actual promisee beliefs, social norms, etc.).
-
-### Key Experimental Treatments
-
-| Treatment | Promise made? | Second-order expectations manipulated? |
-|---|---|---|
-| Baseline | No | No |
-| Promise only | Yes | No |
-| High expectations | Yes | Yes (high) |
-| Low expectations | Yes | Yes (low) |
+20 sessions were conducted at CASSEL (UCLA), with 280 subjects (undergraduate students). Subjects completed 2 practice rounds followed by 8 paying rounds. The reliability device type was elicited using the strategy method (subjects made decisions for both reliability states before learning which applied). Beliefs were incentivized using a binarized scoring rule. Show-up fee: $5.
 
 ---
 
-## Results
+## 2. Results
 
-### Main Finding: Guilt Aversion Drives Promise-Keeping
+### 2.1 Main Effect: Second-Order Beliefs Drive Performance
 
-The central result is that **higher second-order expectations lead to higher promisor generosity**. Promisors who believe the promisee expects a high return transfer significantly more money than promisors who believe the promisee expects a low return, even when the promise and the actual promisee expectations are held constant.
+When a promise was made, average contribution was $\$5.76$ under the reliable device ($\rho = 5/6$) versus $\$5.28$ under the unreliable device ($\rho = 1/6$), a significant difference ($p < 0.01$). When no promise was made, there was no significant difference between reliability conditions, ruling out the device affecting performance through channels other than promise-keeping.
 
-This finding is consistent with guilt aversion: promisors who anticipate a larger disappointment (because the promisee has high expectations) are more motivated to avoid that guilt by fulfilling the promise.
+The effect of the promissory link dwarfs the effect of the device: average contribution under a promise was $\$0.56$ per unit compared to $\$0.38$ under empty talk and $\$0.38$ with no message ($p < 0.01$). The difference attributable to the device ($\$0.60$) is about three times smaller than the difference attributable to the promise ($\approx \$2.16$).
 
-### Guilt Aversion vs. Other Mechanisms
+### 2.2 Belief Elicitation
 
-The experimental design allows the authors to rule out alternative explanations:
+First-order beliefs: $\tau_R(\mu, 1/6) = 0.24$ under the unreliable device; somewhat higher under the reliable device, but the difference was not significant when a promise was made ($p = 0.15$). This confirms that the reliability device shifts second-order beliefs while leaving first-order beliefs approximately unchanged.
 
-- **Social norms:** Holding actual promisee beliefs constant eliminates the possibility that promisors are responding to the social expectations of the experimenter or norm of promise-keeping per se.
-- **Intrinsic motivation:** The manipulation of second-order expectations (not first-order expectations) shows that it is the promisor's *belief* about promisee expectations, not the actual expectations, that drives behavior.
-- **Strategic reputation:** One-shot interactions without repetition eliminate reputational concerns.
+Second-order beliefs: $0.64$ under the reliable device versus $0.53$ under the unreliable device when a promise was made ($p < 0.01$). This is the variation the model predicts should drive performance.
 
-### Financial Literacy and Promise-Keeping
+### 2.3 Opt-Out Behavior
 
-More financially sophisticated and better-educated subjects show stronger guilt aversion responses, suggesting that the capacity for perspective-taking and belief-based reasoning amplifies the guilt aversion effect.
+Opt-out rates were $7.3\%$ (promise), $12.8\%$ (empty talk), and $21.6\%$ (no message), confirming that promises credibly signal higher promisor generosity to receivers.
 
 ---
 
-## Theoretical Framework: Conditional Guilt Aversion
+## 3. Theoretical Framework: Conditional Guilt Aversion
 
-The authors develop a **conditional guilt aversion model** in which a promisor's utility is:
+### 3.1 Model
 
-$$U = v(\text{payoff}) - \gamma \max\{E[\pi_j] - \pi_j, 0\}$$
+The dictator's utility is
 
-where $E[\pi_j]$ is the promisor's second-order expectation of what the promisee expects to receive, $\pi_j$ is the actual payoff delivered to the promisee, and $\gamma \geq 0$ is the guilt aversion coefficient.
+$$U_D(a) = \pi_D(a) - \frac{\mu \gamma_D}{k}\left(\max\left\{E[\pi_R \mid \tau_D, \rho] - \pi_R(a), 0\right\}\right)^k,$$
 
-The "conditional" aspect refers to the conditioning of guilt on whether a promise was made: guilt is activated when the promisor has explicitly made a promise, creating elevated expectations. Without a promise, the reference point for the promisee's expectations is lower, generating less guilt from the same transfer level.
+where $\mu \in \{0,1\}$ is an indicator for whether a promise was made, $\gamma_D \geq 0$ is the guilt aversion coefficient, $\tau_D(\mu, \rho)$ is A's second-order belief (belief about B's expectation of A's contribution), and $k > 1$ governs the convexity of guilt. With payoffs $\pi_D = 14 - 4a$ and $\pi_R = 12a$, the expected payoff to B conditional on A's second-order beliefs is $E[\pi_R \mid \tau_D, \rho] = 12\rho\tau_D(\mu, \rho)$, giving:
 
-This model:
-1. Predicts higher transfers when second-order expectations are higher
-2. Rationalizes the experimental results across all treatments
-3. Encompasses earlier guilt aversion models (Battigalli and Dufwenberg) as special cases
-4. Generates the prediction that promises amplify guilt aversion by raising the reference point
+$$U_D(a) = 14 - 4a - \frac{\mu \gamma_D \cdot 12^k}{k}\left(\max\left\{\rho\tau_D(\mu,\rho) - a, 0\right\}\right)^k.$$
+
+**Conditional guilt**: guilt is activated ($\mu = 1$) only when a promise is made. Without a promise ($\mu = 0$) guilt does not enter regardless of $\gamma_D$.
+
+For guilt-averse dictators ($\gamma_D > 0$, $\mu = 1$), the interior optimum is
+
+$$a^* = \rho\tau_D - \left(\frac{4}{\gamma_D \cdot 12^k}\right)^{1/(k-1)}.$$
+
+### 3.2 Testable Restriction
+
+**TR1.** If a promise is made ($\mu = 1$), equilibrium contribution $a^*$ is higher under the reliable device ($\rho = 5/6$, higher $\tau_D$) than under the unreliable device ($\rho = 1/6$, lower $\tau_D$). Without a promise ($\mu = 0$), there is no difference across reliability conditions.
+
+This is the central testable restriction, which the data confirm.
+
+### 3.3 Distribution of Guilt Aversion
+
+Structural estimation reveals that approximately $50\%$ of dictators have $\gamma_D > 0$ (guilt-averse). Of these, roughly $25\%$ have very high guilt aversion ($\gamma_D \approx 20$) and choose $a^* \approx \rho\tau_D$ to eliminate guilt entirely; the remaining $25\%$ have intermediate values.
 
 ---
 
-## Conclusion
+## 4. Conclusion
 
-Promises are kept because breaking them causes anticipated guilt, proportional to the extent to which the promisee's expectations are disappointed. The paper provides the first direct experimental evidence that **second-order expectations** — promisors' beliefs about promisees' expectations — drive promise-keeping through a guilt aversion mechanism, independent of actual promisee beliefs or social norms. These findings have implications for the design of contracts, the foundations of informal agreements, and the psychological underpinnings of trust in economic relationships.
+This paper provides the first direct experimental evidence that second-order beliefs — promisors' beliefs about promisees' expectations — are the mechanism through which promises affect behavior. A conditional guilt aversion model, in which guilt is activated only when a promise is made, organizes the experimental results: higher second-order beliefs lead to higher performance when a promise is made, with no effect absent a promise. The findings establish that the binding force of a promise operates through the expectations it creates rather than through intrinsic commitment value or social norms alone.
