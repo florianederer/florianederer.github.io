@@ -1,0 +1,163 @@
+# Florian Ederer – Research
+
+> Florian Ederer is the Allen & Kelli Questrom Professor in Markets, Public Policy and Law at Boston University. His research spans industrial organization, organizational economics, and behavioral economics, with a focus on innovation, competition policy, common ownership, and incentives.
+
+---
+
+## Publications
+
+**Bayesian Persuasion with Lie Detection**
+Florian Ederer and Weicheng Min.
+*Journal of Law and Economics*, forthcoming.
+Studies optimal information disclosure by a sender who knows the receiver can statistically detect lies. Characterizes how lie-detection capability constrains persuasion and shapes equilibrium communication strategies.
+
+**A Tale of Two Networks: Common Ownership and Product Market Rivalry**
+Florian Ederer and Bruno Pellegrino.
+*Review of Economic Studies*, Vol. 93, No. 3, pp. 1746–1788, May 2026.
+Develops a network model distinguishing two channels through which common ownership affects competition: a "rivalry network" (competitive interactions between products) and an "ownership network" (investor stakes across firms). Finds that common ownership substantially softens product market competition, with effects concentrated in industries where the two networks overlap. Winner of the Econometric Society 2022 Best Paper Award and the ALEA 2023 Best Paper in Antitrust & Competition Policy.
+
+**Anonymous Attention and Abuse**
+Florian Ederer, Paul Goldsmith-Pinkham, and Kyle Jensen.
+*AEA Papers & Proceedings*, Vol. 115, pp. 188–94, May 2025.
+Documents patterns of anonymous attention and abusive behavior on online platforms, drawing on data from the Economics Job Market Rumors (EJMR) forum. Shows that anonymity enables targeted harassment and that victims tend to be women and minorities in economics.
+
+**Innovation: The Bright Side of Common Ownership?**
+Miguel Antón, Florian Ederer, Mireia Giné, and Martin Schmalz.
+*Management Science*, Vol. 71, No. 5, pp. 3713–3733, May 2025.
+Examines whether common ownership promotes innovation by reducing competitive pressure to keep knowledge proprietary. Finds that firms with more common ownership investors invest more in R&D and generate more patents, suggesting a pro-innovation channel that partially offsets anticompetitive effects.
+
+**Common Ownership, Competition, and Top Management Incentives**
+Miguel Antón, Florian Ederer, Mireia Giné, and Martin Schmalz.
+*Journal of Political Economy*, Vol. 131, No. 5, pp. 1294–1355, May 2023.
+Shows that common ownership by large institutional investors weakens managerial incentives to compete. Firms with more common ownership are less likely to use relative performance evaluation (RPE) in executive pay, pay their CEOs more when rivals perform well, and exhibit softer competitive conduct. Winner of the Jerry S. Cohen Award for Antitrust Scholarship 2023 and the SIOE Oliver Williamson Best Conference Paper Award.
+
+**The Great Start-up Sellout and the Rise of Oligopoly**
+Florian Ederer and Bruno Pellegrino.
+*AEA Papers & Proceedings*, Vol. 113, pp. 274–278, May 2023.
+Documents a secular rise in start-up acquisitions by large incumbents and links this trend to increasing industry concentration. Argues that the pattern is consistent with incumbents acquiring entrants to prevent competitive disruption, contributing to oligopolistic market structures.
+
+**Mergers and Acquisitions under Common Ownership**
+Miguel Antón, Florian Ederer, Mireia Giné, and Bruno Pellegrino.
+*AEA Papers & Proceedings*, Vol. 113, pp. 294–298, May 2023.
+Examines how common ownership shapes M&A activity. Finds that firms with more common ownership investors are more likely to acquire rivals and less likely to engage in value-destroying acquisitions, consistent with common owners internalizing industry-wide rather than firm-specific value.
+
+**Trust and Promises over Time**
+Florian Ederer and Frédéric G. Schneider.
+*American Economic Journal: Microeconomics*, Vol. 14, No. 3, pp. 304–320, August 2022.
+Experimental study of how trust and reciprocity evolve in repeated interactions with promises. Finds that explicit promises increase cooperation in early rounds but that their effectiveness decays over time as agents update beliefs about partner reliability.
+
+**Killer Acquisitions**
+Colleen Cunningham, Florian Ederer, and Song Ma.
+*Journal of Political Economy*, Vol. 129, No. 3, pp. 649–702, March 2021 (lead article).
+Introduces the concept of "killer acquisitions": incumbents acquire innovative targets and discontinue their drug development projects to preempt future competition. Using pharmaceutical data, the paper shows that approximately 6% of acquisitions are killers, that acquired projects are more likely to be discontinued when they overlap with the acquirer's existing portfolio, and that this conduct is more prevalent just below merger notification thresholds. Winner of multiple prizes including the Jerry S. Cohen Award for Antitrust Scholarship 2021, the Robert F. Lanzillotti Prize 2020, and the WFA 2018 Best Corporate Finance Paper. Cited in the White House Executive Order on Promoting Competition and EU legislation on killer acquisitions.
+
+**Search Fatigue**
+Bruce Carlin and Florian Ederer.
+*Review of Industrial Organization*, Vol. 54, No. 3, pp. 485–508, May 2019.
+Develops a model in which consumers experience increasing search costs (fatigue) as they compare products across sellers. Shows that search fatigue reduces competitive pressure and can sustain price dispersion in equilibrium. Characterizes firms' pricing strategies and consumer welfare implications, including how fatigue interacts with consumer heterogeneity and brand loyalty.
+
+**Gaming and Strategic Opacity in Incentive Provision**
+Florian Ederer, Richard Holden, and Margaret Meyer.
+*RAND Journal of Economics*, Vol. 49, No. 4, pp. 819–854, Winter 2018.
+Analyzes how agents game performance metrics and how principals optimally respond by designing incentive contracts with strategic opacity. Shows that when gaming is possible, deliberately vague contracts can dominate transparent ones by limiting the agent's ability to substitute unproductive gaming for productive effort.
+
+**Moral Intuitions of Promise Keeping**
+Florian Ederer and Alexander Stremitzer.
+*Principia*, Special Issue on Heuristics, Ethics and Epistemology of Law, Vol. LXV, pp. 5–33, December 2018.
+Reports two laboratory experiments testing how moral intuitions about promise keeping respond to variations in mutual commitment, partner type, and the continuous versus binary nature of performance. Finds evidence for mutuality effects (promises are more binding when both parties commit), income effects (wealthier subjects keep promises more), and receipt effects (actually receiving a promise increases compliance). Discusses implications for legal doctrines including the mailbox rule.
+
+**Promises and Expectations**
+Florian Ederer and Alexander Stremitzer.
+*Games and Economic Behavior*, Vol. 106, pp. 161–178, November 2017.
+Develops and tests a model of promise keeping grounded in guilt aversion. Agents experience disutility when they disappoint the expectations they have raised through promises. The model generates an interior optimal performance level and predicts that promises increase effort most when the promisee's expectations are sensitive to the promise. Laboratory experiments using the strategy method confirm the theoretical predictions.
+
+**Understanding Mechanisms Underlying Peer Effects: Evidence from a Field Experiment on Financial Decisions**
+Leonardo Bursztyn, Florian Ederer, Bruno Ferman, and Noam Yuchtman.
+*Econometrica*, Vol. 82, No. 4, pp. 1273–1301, July 2014.
+A field experiment with brokerage clients in Brazil that disentangles two mechanisms driving peer effects in financial decisions: social learning (peers reveal information about asset quality) and social utility (agents derive direct utility from conforming to peers' choices). The experimental design varies whether a peer's choice is known and whether it is financially certified, allowing clean identification of each channel. Finalist for the Exeter Prize for Behavioral Economics 2015.
+
+**Delay and Deadlines: Freeriding and Information Revelation in Partnerships**
+Arthur Campbell, Florian Ederer, and Johannes Spinnewijn.
+*American Economic Journal: Microeconomics*, Vol. 6, No. 2, pp. 163–204, May 2014.
+Analyzes a partnership model in which agents can delay effort to free-ride on information revealed by a partner's early action. Characterizes equilibria with strategic delay, shows that deadlines can mitigate but not eliminate freeriding, and derives the socially optimal deadline structure. Connects theoretical predictions to empirical patterns in collaborative projects.
+
+**Is Pay-for-Performance Detrimental to Innovation?**
+Florian Ederer and Gustavo Manso.
+*Management Science*, Vol. 59, No. 7, pp. 1496–1513, July 2013.
+Presents laboratory evidence that standard pay-for-performance contracts suppress innovation relative to contracts that tolerate early failure and reward long-run success. Subjects given "exploration" contracts—low fixed pay initially, high rewards for eventual discovery—are more likely to experiment with novel strategies than those on piece-rate contracts. Winner of the 2018 INFORMS TIME Best Paper Award.
+
+**Feedback and Motivation in Dynamic Tournaments**
+Florian Ederer.
+*Journal of Economics and Management Strategy*, Vol. 19, No. 3, pp. 733–769, Fall 2010.
+Studies theoretically and experimentally how interim performance feedback affects effort in multi-stage tournaments. Intermediate feedback can either encourage laggards (if catching up is feasible) or discourage them (if the gap is too large). Derives conditions under which withholding feedback increases total effort and characterizes the optimal feedback policy.
+
+**Interpersonal Comparison, Status and Ambition in Organizations**
+Florian Ederer and Andrea Patacconi.
+*Journal of Economic Behavior and Organization*, Vol. 75, No. 2, pp. 348–363, August 2010.
+Models how concerns for relative standing (status) interact with career ambition in hierarchical organizations. Agents who care about their rank relative to peers exert distorted effort, and firms may optimally suppress status information to reduce rent dissipation. Derives implications for organizational design and the use of performance transparency.
+
+---
+
+## Working Papers
+
+**Anonymity and Identity Online**
+Florian Ederer, Paul Goldsmith-Pinkham, and Kyle Jensen.
+Revise & Resubmit: *Review of Economic Studies*.
+Uses IP address data and statistical techniques to de-anonymize posts on the Economics Job Market Rumors (EJMR) forum, linking posts to individual economists. Documents severe gender and racial harassment directed at job market candidates and junior faculty. The paper identifies the perpetrators' demographic and institutional characteristics and quantifies the chilling effects of harassment on victims' careers.
+
+**Common Ownership Around the World**
+Miguel Antón, Florian Ederer, Mireia Giné, and Guillermo Ramirez-Chiang.
+Working Paper.
+Constructs a comprehensive cross-country dataset on common ownership by institutional investors and documents how the phenomenon varies across legal systems, ownership structures, and industries globally. Provides the first systematic international evidence on the prevalence and competitive implications of common ownership outside the United States.
+
+**Digital (Killer?) Acquisitions**
+Florian Ederer, Regina Seibel, and Tim Simcoe.
+Working Paper.
+Extends the killer acquisitions framework to digital markets, examining whether large technology platforms acquire nascent competitors to discontinue their products or neutralize competitive threats. Constructs novel data on digital acquisitions and tests for discontinuation patterns analogous to those documented in pharmaceuticals.
+
+**Disclosure and the Pace of Drug Development**
+Colleen Cunningham, Florian Ederer, Charles Hodgson, and Zhichun Wang.
+Working Paper.
+Studies how mandatory disclosure of clinical trial results affects pharmaceutical innovation. Using the 2017 FDA Final Rule—which required timely disclosure of all trial outcomes regardless of approval status—the paper documents a substantial increase in results disclosure (including previously underreported failed trials) accompanied by a significant slowdown in drug development: Phase 2 trial completion times increased by over 200 days, Phase 1-to-Phase 2 transition rates fell from ~70% to below 50%, and active trial sites in oncology Phase 2 trials declined by more than 50%. These responses are concentrated in drugs with more technologically related trials pending disclosure, consistent with strategic free-riding on anticipated information. A dynamic structural model of trial investment identifies the key mechanism: mandatory disclosure crowds out private information acquisition.
+
+**Incentives for Parallel Innovation**
+Florian Ederer.
+Revise & Resubmit: *Journal of Law, Economics, and Organization*.
+Develops a theory of optimal incentive design when multiple agents work independently on the same research problem (parallel innovation). Shows that the optimal contract for parallel projects differs fundamentally from optimal contracts for sequential or complementary tasks, and derives implications for patent races, R&D contests, and the organization of innovative activity.
+
+**Deception and Incentives: How Dishonesty Undermines Effort Provision**
+Florian Ederer and Ernst Fehr.
+Revise & Resubmit: *Management Science*.
+Examines how the possibility of deception in principal–agent relationships distorts effort provision. When agents can misreport output or manipulate signals, standard incentive contracts break down. Experimental evidence shows that dishonesty by either party significantly reduces productive effort, generating efficiency losses beyond the direct costs of misreporting.
+
+**Common Ownership and Relative Performance Evaluation**
+Miguel Antón, Florian Ederer, Mireia Giné, and Martin Schmalz.
+Working Paper.
+Examines the mechanism linking common ownership to executive pay design, focusing on relative performance evaluation (RPE). Shows theoretically and empirically that common owners prefer to suppress RPE because it would induce managers to compete more aggressively against rivals in which the same investors hold stakes. Provides structural estimates of the welfare costs of this distortion.
+
+---
+
+## Work in Progress
+
+"Common Ownership and Collusion" with Vincent Abraham and Catarina Marvão.
+
+"Mechanisms of Common Ownership" with Weicheng Min and Regina Seibel.
+
+---
+
+## Books & Book Chapters
+
+**Common Ownership**
+Florian Ederer and Isabel Tecu.
+*Antitrust Economics for Lawyers*, Chapter 7, LexisNexis Antitrust Law & Strategy Series, 2025.
+A practitioner-oriented overview of the economics and antitrust implications of common ownership. Surveys the theoretical mechanisms by which common ownership softens competition, reviews the empirical evidence, and discusses policy responses and ongoing debates.
+
+**Incentives for Innovation: Bankruptcy, Corporate Governance, and Compensation Systems**
+Florian Ederer and Gustavo Manso.
+*Handbook of Law, Innovation, and Growth*, Edward Elgar Publishing, March 2011.
+Reviews the economic literature on how legal institutions—bankruptcy law, corporate governance structures, and executive compensation design—shape firms' and individuals' incentives to innovate. Discusses the role of tolerance for failure, long-term incentives, and investor-friendly legal regimes in promoting exploratory innovation.
+
+**Solutions Manual to Accompany Contract Theory**
+Arthur Campbell, Florian Ederer, Moshe Cohen, and Johannes Spinnewijn.
+MIT Press, September 2007.
+Provides worked solutions to the problems in Bolton and Dewatripont's graduate textbook *Contract Theory*, covering adverse selection, moral hazard, incomplete contracts, and mechanism design.
