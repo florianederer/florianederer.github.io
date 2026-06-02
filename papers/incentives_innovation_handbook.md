@@ -1,7 +1,7 @@
 # Incentives for Innovation: Bankruptcy, Corporate Governance, and Compensation Systems
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
-**Gustavo Manso** (University of California, Berkeley)
+**Florian Ederer** (University of California at Los Angeles)
+**Gustavo Manso** (Massachusetts Institute of Technology)
 
 In: Robert E. Litan (ed.), *Handbook of Law, Innovation, and Growth*, Chapter 4, Edward Elgar Publishing, 2011
 

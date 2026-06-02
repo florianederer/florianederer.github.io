@@ -1,6 +1,6 @@
 # Moral Intuitions of Promise Keeping
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale School of Management)
 **Alexander Stremitzer** (ETH Zurich)
 
 *Principia*, Special Issue on Heuristics, Ethics and Epistemology of Law, Vol. LXV, pp. 5–33, December 2018

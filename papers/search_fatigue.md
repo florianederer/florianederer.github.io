@@ -1,7 +1,7 @@
 # Search Fatigue
 
 **Bruce I. Carlin** (UCLA Anderson School of Management)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale School of Management)
 
 *Review of Industrial Organization*, Vol. 54, No. 3, pp. 485–508, May 2019. DOI: 10.1007/s11151-018-9657-5
 

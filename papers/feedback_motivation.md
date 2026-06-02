@@ -1,6 +1,6 @@
 # Feedback and Motivation in Dynamic Tournaments
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (University of California at Los Angeles)
 
 *Journal of Economics & Management Strategy*, Vol. 19, No. 3, pp. 733–769, Fall 2010
 

@@ -1,6 +1,6 @@
 # Interpersonal Comparison, Status and Ambition in Organizations
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Anderson School of Management, University of California at Los Angeles)
 **Andrea Patacconi** (University of Aberdeen Business School)
 
 *Journal of Economic Behavior & Organization*, Vol. 75, pp. 348–363, 2010

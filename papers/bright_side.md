@@ -1,6 +1,6 @@
 # Innovation: The Bright Side of Common Ownership?
 
-**Authors:** Miguel Antón (IESE Business School), Florian Ederer (Boston University), Mireia Giné (IESE Business School), Martin C. Schmalz (University of Oxford Saïd Business School)
+**Authors:** Miguel Antón (IESE Business School), Florian Ederer (Boston University, CEPR, ECGI, and NBER), Mireia Giné (IESE Business School), Martin C. Schmalz (University of Oxford Saïd Business School)
 
 **Published in:** *Management Science*, Vol. 71, No. 5, pp. 3713–3733, 2025
 

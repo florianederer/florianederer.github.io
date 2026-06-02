@@ -1,6 +1,6 @@
 # Anonymous Attention and Abuse
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Boston University, CEPR, ECGI, and NBER)
 **Paul Goldsmith-Pinkham** (Yale University; NBER)
 **Kyle Jensen** (Yale University)
 

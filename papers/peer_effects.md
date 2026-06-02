@@ -1,7 +1,7 @@
 # Understanding Mechanisms Underlying Peer Effects: Evidence from a Field Experiment on Financial Decisions
 
 **Leonardo Bursztyn** (University of Chicago; NBER)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (University of California at Los Angeles)
 **Bruno Ferman** (São Paulo School of Economics – FGV)
 **Noam Yuchtman** (London School of Economics; NBER)
 

@@ -1,6 +1,6 @@
 # Deception and Incentives: How Dishonesty Undermines Effort Provision
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale University)
 **Ernst Fehr** (University of Zürich)
 
 *Working Paper* — Revise & Resubmit: *Management Science*

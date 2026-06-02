@@ -1,7 +1,7 @@
 # Killer Acquisitions
 
 **Colleen Cunningham** (London Business School)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale University and Cowles Foundation)
 **Song Ma** (Yale School of Management)
 
 *Journal of Political Economy*, Vol. 129, No. 3, pp. 649–702, March 2021

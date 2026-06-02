@@ -1,6 +1,6 @@
 # Incentives for Parallel Innovation
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale School of Management and Cowles Foundation)
 
 *Working Paper* — Revise & Resubmit: *Journal of Law, Economics, and Organization*
 

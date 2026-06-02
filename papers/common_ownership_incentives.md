@@ -1,7 +1,7 @@
 # Common Ownership, Competition, and Top Management Incentives
 
 **Miguel Antón** (IESE Business School)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale School of Management and Cowles Foundation)
 **Mireia Giné** (IESE Business School, ECGI, and WRDS)
 **Martin Schmalz** (University of Oxford Saïd Business School, CEPR, ECGI, CESIfo, and C-SEB)
 

@@ -1,6 +1,6 @@
 # Gaming and Strategic Opacity in Incentive Provision
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale University)
 **Richard Holden** (University of New South Wales)
 **Margaret Meyer** (University of Oxford; CEPR)
 

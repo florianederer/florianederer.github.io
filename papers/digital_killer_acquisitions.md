@@ -1,6 +1,6 @@
 # Digital (Killer?) Acquisitions
 
-**Authors:** Florian Ederer (Boston University; CEPR, ECGI, and NBER), Regina Seibel (Toronto Rotman School of Management), Timothy Simcoe (Boston University Questrom School of Business and NBER)
+**Authors:** Florian Ederer (Boston University Questrom School of Business, CEPR, ECGI, and NBER), Regina Seibel (Toronto Rotman School of Management), Timothy Simcoe (Boston University Questrom School of Business and NBER)
 
 **Status:** Working Paper
 

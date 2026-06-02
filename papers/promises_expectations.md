@@ -1,6 +1,6 @@
 # Promises and Expectations
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale School of Management)
 **Alexander Stremitzer** (UCLA School of Law)
 
 *Games and Economic Behavior*, Vol. 106, pp. 161–178, November 2017

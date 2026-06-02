@@ -1,6 +1,6 @@
 # The Great Startup Sellout and the Rise of Oligopoly
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale University and NBER)
 **Bruno Pellegrino** (University of Maryland and CESifo)
 
 *AEA Papers & Proceedings*, Vol. 113, pp. 274–278, May 2023

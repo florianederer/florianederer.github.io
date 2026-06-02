@@ -1,6 +1,6 @@
 # Common Ownership: A Guide for Antitrust Practitioners
 
-**Authors:** Florian Ederer (Boston University; CEPR, ECGI, and NBER), Isabel Tecu (Charles River Associates)
+**Authors:** Florian Ederer (Boston University Questrom School of Business, CEPR, ECGI, and NBER), Isabel Tecu (Charles River Associates)
 
 **Published in:** *Antitrust Economics for Lawyers*, Chapter 7, LexisNexis Antitrust Law & Strategy Series, 2025
 

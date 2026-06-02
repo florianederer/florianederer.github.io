@@ -1,7 +1,7 @@
 # Is Pay-for-Performance Detrimental to Innovation?
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
-**Gustavo Manso** (University of California, Berkeley; NBER)
+**Florian Ederer** (Anderson School of Management, University of California, Los Angeles)
+**Gustavo Manso** (Haas School of Business, University of California, Berkeley)
 
 *Management Science*, Vol. 59, No. 7, pp. 1496–1513, July 2013
 

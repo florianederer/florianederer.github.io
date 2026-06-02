@@ -1,7 +1,7 @@
 # Mergers and Acquisitions under Common Ownership
 
 **Miguel Antón** (IESE Business School)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale University and NBER)
 **Mireia Giné** (IESE Business School, ECGI, and WRDS)
 **Bruno Pellegrino** (University of Maryland and CESifo)
 

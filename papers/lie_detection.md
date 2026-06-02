@@ -1,7 +1,7 @@
 # Bayesian Persuasion with Lie Detection
 
 **Weicheng Min** (Antai College of Economics and Management, Shanghai Jiao Tong University)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Boston University Questrom School of Business, CEPR, ECGI, and NBER)
 
 *March 6, 2026*
 

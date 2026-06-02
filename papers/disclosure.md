@@ -1,7 +1,7 @@
 # Disclosure and the Pace of Drug Development
 
 **Colleen Cunningham** (University of Utah)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Boston University Questrom School of Business, CEPR, ECGI, and NBER)
 **Charles Hodgson** (Yale University)
 **Zhichun Wang** (Yale University)
 

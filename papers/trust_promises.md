@@ -1,6 +1,6 @@
 # Trust and Promises over Time
 
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale School of Management, Yale University)
 **Frédéric Schneider** (ETH Zürich)
 
 *American Economic Journal: Microeconomics*, Vol. 14, No. 4, pp. 304–336, November 2022

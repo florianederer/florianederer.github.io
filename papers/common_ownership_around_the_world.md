@@ -1,7 +1,7 @@
 # Common Ownership Around the World
 
 **Miguel Antón** (IESE Business School)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Boston University, CEPR, ECGI, and NBER)
 **Mireia Giné** (IESE Business School, ECGI, and WRDS)
 **Guillermo Ramirez-Chiang** (IESE Business School)
 

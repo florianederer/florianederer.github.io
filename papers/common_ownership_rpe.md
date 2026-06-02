@@ -1,7 +1,7 @@
 # Common Ownership and Relative Performance Evaluation
 
 **Miguel Antón** (IESE Business School)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (Yale University)
 **Mireia Giné** (IESE Business School, ECGI, and WRDS)
 **Martin Schmalz** (University of Oxford)
 

@@ -1,6 +1,6 @@
 # Anonymity and Identity Online
 
-**Authors:** Florian Ederer (Boston University; CEPR, ECGI, and NBER), Paul Goldsmith-Pinkham (Yale School of Management and NBER), Kyle Jensen (Yale School of Management)
+**Authors:** Florian Ederer (Boston University Questrom School of Business, CEPR, ECGI, and NBER), Paul Goldsmith-Pinkham (Yale School of Management and NBER), Kyle Jensen (Yale School of Management)
 
 **Status:** Revise and Resubmit, *Review of Economic Studies*
 

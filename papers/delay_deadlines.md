@@ -1,7 +1,7 @@
 # Delay and Deadlines: Freeriding and Information Revelation in Partnerships
 
 **Arthur Campbell** (Yale University)
-**Florian Ederer** (Boston University; CEPR, ECGI, and NBER)
+**Florian Ederer** (UCLA Anderson School of Management)
 **Johannes Spinnewijn** (London School of Economics; CEPR)
 
 *American Economic Journal: Microeconomics*, Vol. 6, No. 2, pp. 163–204, May 2014
