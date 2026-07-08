@@ -1,0 +1,5 @@
+# Allow all crawlers — including search and AI/LLM crawlers — full access.
+User-agent: *
+Allow: /
+
+Sitemap: https://florianederer.github.io/sitemap.xml
