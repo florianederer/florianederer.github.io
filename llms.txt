@@ -137,6 +137,11 @@ Colleen Cunningham, Florian Ederer, Charles Hodgson, and Zhichun Wang.
 Working Paper.
 Studies how mandatory disclosure of clinical trial results affects pharmaceutical innovation. Using the 2017 FDA Final Rule—which required timely disclosure of all trial outcomes regardless of approval status—the paper documents a substantial increase in results disclosure (including previously underreported failed trials) accompanied by a significant slowdown in drug development: Phase 2 trial completion times increased by over 200 days, Phase 1-to-Phase 2 transition rates fell from ~70% to below 50%, and active trial sites in oncology Phase 2 trials declined by more than 50%. These responses are concentrated in drugs with more technologically related trials pending disclosure, consistent with strategic free-riding on anticipated information. A dynamic structural model of trial investment identifies the key mechanism: mandatory disclosure crowds out private information acquisition.
 
+**Common Ownership and Collusion**
+Vincent Abraham, Florian Ederer, and Catarina Marvão.
+Working Paper.
+Studies the relationship between common ownership by institutional investors and firms' propensity to collude, extending the findings summarized in the companion article "New Findings on Common Ownership and Collusion" (Concurrences, 2026).
+
 **Incentives for Parallel Innovation**
 Florian Ederer.
 Revise & Resubmit: *Journal of Law, Economics, and Organization*.
@@ -156,7 +161,7 @@ Examines the mechanism linking common ownership to executive pay design, focusin
 
 ## Work in Progress
 
-"Common Ownership and Collusion" with Vincent Abraham and Catarina Marvão.
+"Stealth Consolidation and Innovation" with Mario Leccese.
 
 "Mechanisms of Common Ownership" with Weicheng Min and Regina Seibel.
 
