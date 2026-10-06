@@ -21,6 +21,10 @@
     <priority>0.4</priority>
   </url>
   <url>
+    <loc>https://florianederer.github.io/photo.html</loc>
+    <priority>0.4</priority>
+  </url>
+  <url>
     <loc>https://florianederer.github.io/llms.txt</loc>
     <priority>0.5</priority>
   </url>
